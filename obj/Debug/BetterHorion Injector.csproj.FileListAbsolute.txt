@@ -1,0 +1,14 @@
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\MetroSet UI.dll
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\HorizonInjector_CrackedByKade.Form1.resources
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\HorizonInjector_CrackedByKade.Properties.Resources.resources
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.csproj.GenerateResource.cache
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.csproj.CoreCompileInputs.cache
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.csproj.CopyComplete
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\BetterHorion Injector.exe.config
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\BetterHorion Injector.exe
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\bin\Debug\BetterHorion Injector.pdb
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.exe
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.pdb
+C:\Users\mehre\Documents\BetterHorion Injector\Injector1\HorizonInjector-CrackedByKade\obj\Debug\BetterHorion Injector.csprojAssemblyReference.cache
